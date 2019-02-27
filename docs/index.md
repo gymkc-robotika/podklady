@@ -3,4 +3,5 @@ Kroužek robotiky
 
 Gymnázium Karla Čapka, Dobříš
 
-[[about]]
+- [Základní informace](./about.html)
+
