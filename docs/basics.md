@@ -4,8 +4,11 @@ Základy
 Struktura (tok) programu
 ------------------------
 
-- Větvení
-- Smyčky
+- Větvení (`if`, `if` / `else`)
+- Smyčky (`for`, `while`, `do` / `while`)
+- Funkce
+ - parametry
+ - návratové hodnoty
 
 Data
 ----
@@ -19,5 +22,7 @@ Mohou být různého typu
   - čísla
   - řetězce
   - odkazy (ukazatele, reference)
+- pole
+  indexovatelné, např: `pole[0] = 123`, `pole[1] = pole[0] * 2`
 - složené
   - třídy / struktury
