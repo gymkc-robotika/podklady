@@ -1,6 +1,8 @@
 Základy
 =======
 
+
+
 Struktura (tok) programu
 ------------------------
 
@@ -26,3 +28,5 @@ Mohou být různého typu
   indexovatelné, např: `pole[0] = 123`, `pole[1] = pole[0] * 2`
 - složené
   - třídy / struktury
+
+[Příklady](c-examples.html)
