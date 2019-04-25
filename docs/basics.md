@@ -30,15 +30,17 @@ Mohou být různého typu
   - třídy / struktury
 
 
- Anatomie programu
- -----------------
+Anatomie programu
+-----------------
  
  - Deklarace (importy)
  - Globální funkce, proměnné
  
- - Funkce: <typ návratové hodnota> <název> ( <seznam parametrů>) {
+ - Funkce: ```<typ návratové hodnota> <název> ( <seznam parametrů>) {
     <tělo funkce>
-  }  
+  }```  
+  - if podmínka: ```if ( <podmínka>) <příkaz>```
+  - if podmínka: ```if ( <podmínka>) <příkaz> else <příkaz>```
 
 - Tělo funkce: příkazy
 
