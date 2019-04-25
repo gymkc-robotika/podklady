@@ -33,21 +33,21 @@ Mohou být různého typu
  Anatomie programu
  -----------------
  
- Deklarace (importy)
- Globální funkce, proměnné
+ - Deklarace (importy)
+ - Globální funkce, proměnné
  
- Funkce: <typ návratové hodnota> <název> ( <seznam parametrů>) {
-   <tělo funkce>
- }  
+ - Funkce: <typ návratové hodnota> <název> ( <seznam parametrů>) {
+    <tělo funkce>
+  }  
 
-Tělo funkce: příkazy
+- Tělo funkce: příkazy
 
-Příkaz:
-- přiřazovací
-- smyčka (do, while, for)
-- if
-- volání funkce
-- return
-- deklarace proměnné
+- Příkaz:
+ - přiřazovací
+ - smyčka (do, while, for)
+ - if
+ - volání funkce
+ - return
+ - deklarace proměnné
 
 [Příklady](c-examples.html)
