@@ -29,4 +29,25 @@ Mohou být různého typu
 - složené
   - třídy / struktury
 
+
+ Anatomie programu
+ -----------------
+ 
+ Deklarace (importy)
+ Globální funkce, proměnné
+ 
+ Funkce: <typ návratové hodnota> <název> ( <seznam parametrů>) {
+   <tělo funkce>
+ }  
+
+Tělo funkce: příkazy
+
+Příkaz:
+- přiřazovací
+- smyčka (do, while, for)
+- if
+- volání funkce
+- return
+- deklarace proměnné
+
 [Příklady](c-examples.html)
